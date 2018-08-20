@@ -27,7 +27,7 @@ categories: 技术运营工作周报
 
     2.院校评审，大纲，服务器后台对接；
 
-    3.完善Spring boot 文档找事SpringBoot模块，完成shiro权限跟应用平台对接；
+    3.完善Spring boot 文档主要是SpringBoot模块，完成shiro权限跟应用平台对接；
     
     4.React培训课件和云上环境；
     
