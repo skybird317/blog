@@ -57,9 +57,9 @@ categories: 技术运营工作周报
     
 5. 产业链发展：(校企共建【推进会】、产品验证【发版会】)（宋）
 
-    1.XXXXXXX；
+    1.前端前置知识：重新编排了HTML、CSS、JavaScript、JQuery、Ajax、BootStrap内容（完成100%）；
 
-    2.XXXXXXX；
+    2.前端iuap：重新编排了单表一章的案例，并按照培训的方式进行案例拆分；
 
     3.XXXXXXX；
     
