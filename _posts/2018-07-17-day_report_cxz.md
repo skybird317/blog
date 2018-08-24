@@ -59,7 +59,7 @@ categories: 技术运营工作周报
 
     1.前端前置知识：重新编排了HTML、CSS、JavaScript、JQuery、Ajax、BootStrap内容（完成100%）；
 
-    2.前端iuap：重新编排了单表一章的案例，并按照培训的方式进行案例拆分；
+    2.前端iuap：重新编排了单表一章的案例，并按照培训的方式进行案例拆分（完成100%）；
 
     3.XXXXXXX；
     
