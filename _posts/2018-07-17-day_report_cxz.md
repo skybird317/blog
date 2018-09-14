@@ -59,9 +59,11 @@ categories: 技术运营工作周报
 
     1.新道课程建设，评审、细化课程；
 
-    2.XXXXXXX；
+    2.完成HTML+CSS PPT，完成JavaScript PPT；
 
-    3.XXXXXXX；
+    3.完成iuap主子表案例；
+    
+    4.开会讨论iuap前端课程的进度以及计划
     
 6. 其他
 
