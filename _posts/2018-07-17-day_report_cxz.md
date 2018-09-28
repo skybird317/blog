@@ -35,7 +35,7 @@ categories: 技术运营工作周报
 
     1.双百云平台产品培训：iuap互联网开发和集成开发；
 
-    2.XXXXXXX；
+    2.邯郸ESB培训；
 
     3.XXXXXXX；
 
